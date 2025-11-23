@@ -1,0 +1,23 @@
+// Definições de tipos implícitos para bibliotecas sem @types
+declare module 'body-parser';
+declare module 'connect';
+declare module 'cookiejar';
+declare module 'eslint-scope';
+declare module 'express';
+declare module 'express-serve-static-core';
+declare module 'http-errors';
+declare module 'methods';
+declare module 'mime';
+declare module 'ms';
+declare module 'qs';
+declare module 'range-parser';
+declare module 'send';
+declare module 'serve-static';
+declare module 'superagent';
+declare module 'supertest';
+declare module 'validator';
+declare module 'webidl-conversions';
+declare module 'whatwg-url';
+declare module 'jsonwebtoken';
+declare module 'istanbul-lib-report';
+declare module 'istanbul-reports';

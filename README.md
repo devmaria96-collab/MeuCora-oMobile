@@ -1,0 +1,1 @@
+Meu coração é um trabalho voltado a pessoas com problemas cardíacos. levando em consideração a necessidade de tomar medicamentos,exames e consultas agendada, o aplicativo permite que a pessoa tenha tudo que é necessário na palma da mão. 

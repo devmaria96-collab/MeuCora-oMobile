@@ -1,0 +1,10 @@
+[0;1;31m●[0m mongod.service - MongoDB Database Server
+     Loaded: loaded (/lib/systemd/system/mongod.service; enabled; vendor preset: enabled)
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Fri 2025-11-21 13:11:26 -03; 24s ago
+       Docs: https://docs.mongodb.org/manual
+   Main PID: 14254 (code=exited, status=14)
+
+nov 21 13:11:26 maria-Inspiron-15-3520 systemd[1]: Started MongoDB Database Server.
+nov 21 13:11:26 maria-Inspiron-15-3520 mongod[14254]: {"t":{"$date":"2025-11-21T16:11:26.104Z"},"s":"I",  "c":"CONTROL",  "id":7484500, "ctx":"-","msg":"Environment variable MONGODB_CONFIG_OVERRIDE_NOFORK == 1, overriding \"processManagement.fork\" to false"}
+nov 21 13:11:26 maria-Inspiron-15-3520 systemd[1]: [0;1;39m[0;1;31m[0;1;39mmongod.service: Main process exited, code=exited, status=14/n/a[0m
+nov 21 13:11:26 maria-Inspiron-15-3520 systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mmongod.service: Failed with result 'exit-code'.[0m
